@@ -3,7 +3,8 @@ Hi!👋 My name is Peerawich Pichayathadapong
 
 1st Year Undergraduate Student at IT Faculty.
 
-\-------------------- Hi, my name is Peerawich Pichayathadapong, or you can call me "Frank" in shorts or whatever you'd like🦭🦈. I'm an undergraduate student at the Faculty of Information Technology (IT Faculty) at King Monkut's Institute of Technology Ladkrabang (KMITL) in Thailand🧑🏻‍💻. -------------------- I've studied programming for about half a year, from the first half of 2022 till today, and I regret that I didn't start learning it a bit faster because I loved it so much💖💘✨! I always thought every single day in the middle of the night🌃 before sleeping that if I'd start to learn about coding and programming, or else I would enjoy my daily life even more, and I'll have more time to learn more about these things. --------------------
+--------------------
+Hi, my name is Peerawich Pichayathadapong, or you can call me "Frank" in shorts or whatever you'd like🦭🦈. I'm an undergraduate student at the Faculty of Information Technology (IT Faculty) at King Monkut's Institute of Technology Ladkrabang (KMITL) in Thailand🧑🏻‍💻. -------------------- I've studied programming for about half a year, from the first half of 2022 till today, and I regret that I didn't start learning it a bit faster because I loved it so much💖💘✨! I always thought every single day in the middle of the night🌃 before sleeping that if I'd start to learn about coding and programming, or else I would enjoy my daily life even more, and I'll have more time to learn more about these things. --------------------
 
 *   🔭  I’m working on Object-Oriented Programming and Data Structure and Algorithms Subject at my uni.
 *   🧠  I'm currently learning about Java and C language and looking forward for other languages as much as I can.
@@ -37,7 +38,10 @@ Hi!👋 My name is Peerawich Pichayathadapong
 <a href="https://www.github.com/pprwf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 <a href="http://www.instagram.com/_pprwf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.twitter.com/relaxed_pills" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="https://www.twitch.tv/pprwf_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b>
+<a href="https://www.twitch.tv/pprwf_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
+
+# Badges
+<b>My GitHub Stats</b>
 <a href="http://www.github.com/pprwf"><img src="https://github-readme-stats.vercel.app/api?username=pprwf&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pprwf's GitHub stats" /></a>
 <a href="http://www.github.com/pprwf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pprwf&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <a href="http://www.github.com/pprwf"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=pprwf&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
