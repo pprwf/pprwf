@@ -1,8 +1,7 @@
 Hi!👋 My name is Peerawich Pichayathadapong
 ========================================================================================================================================
 
-1st Year Undergraduate Student at IT Faculty.
---------------------
+<h3>1st Year Undergraduate Student at IT Faculty.</h3>
 
 Hi, my name is Peerawich Pichayathadapong, or you can call me "Frank" in shorts or whatever you'd like🦭🦈.
 I'm an undergraduate student at the Faculty of Information Technology (IT Faculty) at King Monkut's Institute of Technology Ladkrabang (KMITL) in Thailand🧑🏻‍💻.
@@ -50,8 +49,11 @@ I always thought every single day in the middle of the night🌃 before sleeping
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/pprwf"><img src="https://github-readme-stats.vercel.app/api?username=pprwf&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pprwf's GitHub stats" /></a>
+
 <a href="http://www.github.com/pprwf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pprwf&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <a href="http://www.github.com/pprwf"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=pprwf&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/pprwf/OOP-Y1S2" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pprwf&repo=OOP-Y1S2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/pprwf/DSA-Y1S2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pprwf&repo=DSA-Y1S2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/pprwf/PSCP-Y1S1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pprwf&repo=PSCP-Y1S1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 # Support Me
