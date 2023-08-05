@@ -10,9 +10,6 @@ I didn't start learning it a bit faster because I loved it so much💖💘!
 I always thought every single day in the middle of the night🌃 before sleeping that if I'd start to learn about coding and programming a little sooner else 
 I would enjoy my daily life even more, and I'll have more time to learn more about all of these things.
 
-
-*   🔭  I’m working on Physical Programming, System Analytics and Design, Multimedia Technology and Cyber Security Subject at my uni.
-*   🧠  I'm currently learning about C, Arduino (C++), CSS and looking forward for other languages as much as I can.
 *   🤝  I'm open to collaborating on any projects that I can help.
 *   🌍  I'm based in Bangkok, Thailand.
 *   💬  Ask me [anything](https://ask.fm/askingpills) or ask me [anonymously](ngl.link/_pprwf12228).
@@ -30,7 +27,6 @@ I would enjoy my daily life even more, and I'll have more time to learn more abo
 ผมก็ชอบมันมากเลยครับ ผมรู้สึกว่าการเรียนทางด้านนี้มันเป็นอะไรที่ไม่ซ้ำซาก มีการพัฒนาและพร้อมให้เราเข้าไปค้นคว้าหาความรู้ใหม่ ๆ ได้อยู่ตลอดเวลา ซึ่งผมก็เป็นคนที่ชอบการเรียนรู้อะไรใหม่ ๆ อยู่แล้ว 
 ผมเลยชอบการเรียนในสายการเรียนนี้มาก ๆ และไม่รู้สึกเสียใจที่เข้าศึกษาต่อทางด้านนี้เลยครับ!💘
 
-*   🔭  ตอนนี้ผมกำลังศึกษาเกี่ยวกับเรื่อง การวิเคราะห์และออกแบบระบบ (OOP) และ ระบบความปลอดภัยทางโลกไซเบอร์ (Cyber Security) อยู่ที่มหาวิทยาลัยครับ
 *   🤝  ผมยินดีที่จะเข้าไปมีส่วนร่วมในการทำ Project ต่าง ๆ ที่ผมสามารถเข้าร่วมและทำได้เพื่อพัฒนาทักษะของตัวเองให้ดียิ่งขึ้นด้วยครับ
 *   💬  ถ้ามีข้อสงสัยอะไรสามารถถามผมได้[ที่นี่](https://ask.fm/askingpills)เลยครับ🙂 หรืออยากจะถามผมแบบไม่ระบุตัวตน[ที่นี่](ngl.link/_pprwf12228)ก็ได้นะครับ
 *   📫  สามารถติดต่อผมได้ที่ Gmail นี้เลยครับ 👉🏻 [pprwfwithsleeping.pills@gmail.com](mailto:pprwfwithsleeping.pills@gmail.com) หรือช่องทางต่าง ๆ ด้านล่างเลยครับ
@@ -50,6 +46,25 @@ I would enjoy my daily life even more, and I'll have more time to learn more abo
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" width="36" height="36" alt="Photoshop" />&nbsp;</a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" width="36" height="36" alt="Premiere Pro" />&nbsp;</a>
 </p>
+
+# Subject
+
+### Already Complete
+01. Problem Solving and Computer Programming
+02. Introduction to Computer Systems
+03. Information Technology Fundamentals
+04. Object-Oriented Programming
+05. Data Structures and Algorithms
+
+### Currently Learning
+01. Physical Computing
+02. Multimedia Technology
+03. Introduction to Network Systems
+04. Database System Concept
+05. Information System Analysis and Design
+06. Introduction to Internet of Things
+07. Cyber Security Systems
+08. Data Analytics
 
 # Badges
 ### 📊 My GitHub Stats 📊
