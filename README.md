@@ -49,7 +49,7 @@ I would enjoy my daily life even more, and I'll have more time to learn more abo
 
 # Subject
 
-### Already Complete
+### Completed
 01. Problem Solving and Computer Programming
 02. Introduction to Computer Systems
 03. Information Technology Fundamentals
