@@ -1,5 +1,5 @@
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm _pprwf (sleeping pills💤💊)❗</h1>
-<h5 align="right">1st Year Undergraduate Student at IT Faculty.</h5>
+<h5 align="right">2nd Year Undergraduate Student at IT Faculty (Sophomore Year).</h5>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 💫My name is Peerawich Pichayathadapong, or you can call me "Frank🦈" in shorts or whatever you'd like🦭.
